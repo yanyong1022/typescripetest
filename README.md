@@ -1,0 +1,2 @@
+# typescripetest
+my typescript exercise
